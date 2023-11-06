@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-An Macchine Learning based project to Predict Heart Disease
+An Machine Learning based project to Predict Heart Disease
